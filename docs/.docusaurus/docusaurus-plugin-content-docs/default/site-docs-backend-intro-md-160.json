@@ -1,0 +1,27 @@
+{
+  "unversionedId": "backend/intro",
+  "id": "backend/intro",
+  "title": "intro",
+  "description": "Quivr is using FastAPI to provide a RESTful API for the backend. The API is currently in beta and is subject to change. The API is available at https://api.quivr.app.",
+  "source": "@site/docs/backend/intro.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/intro",
+  "permalink": "/docs/backend/intro",
+  "draft": false,
+  "editUrl": "https://github.com/StanGirard/quivr/tree/main/docs/docs/backend/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Error Handling",
+    "permalink": "/docs/backend/api/error_handling"
+  },
+  "next": {
+    "title": "LLM",
+    "permalink": "/docs/category/llm"
+  }
+}

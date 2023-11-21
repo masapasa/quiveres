@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "get_started/intro",
+          "docs": [
+            {
+              "id": "backend/api/chat",
+              "path": "/docs/backend/api/chat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "backend/api/error_handling",
+              "path": "/docs/backend/api/error_handling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "backend/api/getting_started",
+              "path": "/docs/backend/api/getting_started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "backend/intro",
+              "path": "/docs/backend/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "backend/llm/private-llm",
+              "path": "/docs/backend/llm/private-llm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "frontend/manage-docs-versions",
+              "path": "/docs/frontend/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get_started/intro",
+              "path": "/docs/get_started/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "privacy_policy",
+              "path": "/docs/privacy_policy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "roadmap",
+              "path": "/docs/roadmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/quivrs-brain",
+              "path": "/docs/category/quivrs-brain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/api",
+              "path": "/docs/category/api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/llm",
+              "path": "/docs/category/llm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/quivrs-face",
+              "path": "/docs/category/quivrs-face",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/getting-started",
+                "label": "Getting Started"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
